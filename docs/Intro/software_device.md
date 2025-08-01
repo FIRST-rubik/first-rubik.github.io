@@ -2,8 +2,8 @@
 sidebar_position: 3
 ---
 
-# Flashing Debian
+# Flashing Ubuntu
 
-1. Download the Debian image from https://www.thundercomm.com/rubik-pi-3/en/docs/image/.
-2. Flash the image using the OS-specific instructions found in the user manual at https://www.thundercomm.com/rubik-pi-3/en/docs/rubik-pi-3-user-manual/1.1.0/quick-start/#13-preparations. Setup with a keyboard and display is recommended.
-
+1. https://hongyang-rp.github.io/rubikpi-ubuntu-user-manual-test-en.github.io/docs/Document%20Home/Quick%20Start/Update%20software
+   
+2. Link will be sent out seperately for the specific build.
