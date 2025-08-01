@@ -9,14 +9,7 @@ sidebar_position: 2
 sudo nano /etc/apt/sources.list
 ```
 2. Add the following lines to the file:
-```
-deb http://deb.debian.org/debian/ bookworm main contrib non-free
-deb-src http://deb.debian.org/debian/ bookworm main contrib non-free
-deb http://security.debian.org/debian-security bookworm-security main contrib non-free
-deb-src http://security.debian.org/debian-security bookworm-security main contrib non-free
-deb http://deb.debian.org/debian/ bookworm-updates main contrib non-free
-deb-src http://deb.debian.org/debian/ bookworm-updates main contrib non-free
-```
+
 3. After saving and closing the file, update `apt`'s package list:
 ```
 sudo apt update
