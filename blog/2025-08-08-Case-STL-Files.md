@@ -1,6 +1,6 @@
 ---
 slug: case
-title: Welcome to RUBIK-Pi Blog
+title: Case STL Files
 authors: [Kristen]
 ---
 Here are the STL Files for printing the case. You should be able to print without supports. 
