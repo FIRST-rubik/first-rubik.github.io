@@ -26,7 +26,7 @@ systemctl restart photonvision.service
 
 # Updating PhotonVision
 
-Download [this jar](https://github.com/PhotonVision/photonvision/actions/runs/16791541485/artifacts/3706020580) and upload it using the `Offline Update` feature in PhotonVision settings.
+Go to the [most recent dev release](https://github.com/PhotonVision/photonvision/releases/tag/Dev) and download the jar ending in linuxarm64. Upload it using the `Offline Update` feature in PhotonVision settings.
 
 # Additional Resources
 
