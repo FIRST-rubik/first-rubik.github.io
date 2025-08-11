@@ -1,17 +1,17 @@
 ---
 sidebar_position: 2
 ---
-Here are the STL Files for printing the case. You should be able to print without supports. 
-
 
 # STL Files
 
-[Case Top](./2025-08-08-Case-STL-Files/Case-top.stl)
+Here are the STL Files for printing the case. You should be able to print without supports. 
 
-[Case Bottom](./Case-STL-Files/Case-bottom.stl)
+[Case Top](/blog/2025-08-08-Case-STL-Files/Case-top.stl)
+
+[Case Bottom](/blog/2025-08-08-Case-STL-Files/Case-bottom.stl)
 
 # Case Preview 
-![Case Preview](./Case-STL-Files/case.jpg)
+![Case Preview](./img/case.jpg)
 
 The case requires 3 M2.5x35mm long bolts to assemble. 
 
