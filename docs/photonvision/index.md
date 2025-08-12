@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-
+# Install
 :::note
 This installation requires an internet connection
 :::

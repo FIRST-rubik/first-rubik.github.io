@@ -1,14 +1,14 @@
 ---
 sidebar_position: 4
 ---
-
+# Case
 # STL Files
 
 Here are the STL Files for printing the case. You should be able to print without supports. 
 
-[Case Top](/blog/2025-08-08-Case-STL-Files/Case-top.stl)
+[Case Top](./Case-STL-Files/Case-top.stl)
 
-[Case Bottom](/blog/2025-08-08-Case-STL-Files/Case-bottom.stl)
+[Case Bottom](./Case-STL-Files/Case-bottom.stl)
 
 # Case Preview 
 ![Case Preview](./img/case.jpg)
