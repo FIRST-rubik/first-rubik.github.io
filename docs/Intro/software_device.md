@@ -8,4 +8,4 @@ sidebar_position: 3
    
 2. Link will be sent out seperately for the specific build.
 
-3. 
+3. [Connect to Internet](https://hongyang-rp.github.io/rubikpi-ubuntu-user-manual-test-en.github.io/docs/Document%20Home/Quick%20Start/Set%20up%20your%20device)
