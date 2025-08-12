@@ -14,7 +14,7 @@ Here are the STL Files for printing the case. You should be able to print withou
 [Case Bottom](./2025-08-08-Case-STL-Files/Case-bottom.stl)
 
 ## Case Preview 
-![Case Preview](./2025-08-08-Case-STL-Files/case.jpg)
+![Case Preview](../docs/Intro/img/case.jpg)
 
 The case requires 3 M2.5x35mm long bolts to assemble. 
 
