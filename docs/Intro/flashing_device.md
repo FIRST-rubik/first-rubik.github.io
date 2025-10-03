@@ -22,13 +22,21 @@ Below are end user steps (Note: this is AFTER Production release is deployed):
     Launch the app. Select "Target Operating system", put your Rubik Pi device in EDL mode (instructions are included in the app), and then click on "Flash".
 
     ![Qualcomm Launcher OS Selection](img/qsc_launcher_os.png)
-    
+
+
 
 4.  **Flashing Process:**
-    The app will download the Target OS, unzip it, and flash it onto the connected Rubik Pi device.
+    It will require the device to be restarted after flashing.. 
+    If the device does not restart automatically, manually restart the device. 
 
-    ![Qualcomm Launcher Flashed](img/qsc_launcher_flashed.png)
+    ![Restart The Device](img/qsc_launcher_restart.png)
+    
+   :::note
+    Device will take a long time to flash.
+   :::
+
+    ![Restart The Device](img/qsc_launcher_flashed.png)
+
 
 5.  **Reboot the Device:**
     Once the flashing process is complete, the app will reboot your Rubik Pi device into the new operating system. You can also safetly unplug and replug the device.
-
