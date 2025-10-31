@@ -10,4 +10,4 @@ sidebar_position: 3
 Don't configure the device, it's not needed as Photonvision will take care of everything
 :::
 
-2. Instead of selecting Ubuntu in the Qualcomm Launcher, please select Custom and grab the latest Rubik Pi Image from the [PhotonVision v2026.0.0 Alpha](https://github.com/PhotonVision/photonvision/releases/tag/v2026.0.0-alpha-1).
+2. Instead of selecting Ubuntu in the Qualcomm Launcher, please select Custom and grab the latest Rubik Pi Image from the [PhotonVision v2026.0.0 Alpha-2](https://github.com/PhotonVision/photonvision/releases/tag/v2026.0.0-alpha-2).
