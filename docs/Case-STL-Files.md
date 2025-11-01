@@ -12,9 +12,9 @@ Here are the STL Files for printing the case. You should be able to print withou
 
 Here are the STEP Files. 
 
-[Case Top](./Case-STEP-Files/Case-top.step)
+[Case Top](./Case-STL-Files/Case-Top.step)
 
-[Case Bottom](./Case-STEP-Files/Case-bottom.step)
+[Case Bottom](./Case-STL-Files/Case-Bottom.step)
 
 Here is the public Onshape link: 
 
