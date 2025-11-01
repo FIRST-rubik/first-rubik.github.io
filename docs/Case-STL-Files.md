@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 # Case
-# STL Files
+# Files
 
 Here are the STL Files for printing the case. You should be able to print without supports. 
 
