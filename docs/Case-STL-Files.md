@@ -10,6 +10,17 @@ Here are the STL Files for printing the case. You should be able to print withou
 
 [Case Bottom](./Case-STL-Files/Case-bottom.stl)
 
+Here are the STEP Files. 
+
+[Case Top](./Case-STEP-Files/Case-top.step)
+
+[Case Bottom](./Case-STEP-Files/Case-bottom.step)
+
+Here is the public Onshape link: 
+
+https://cad.onshape.com/documents/ddcf4a5907a915d8429e3044/w/674d2139aeb5cd963ca206a0/e/7eb235fb6bf1cece4745baba
+
+
 # Case Preview 
 ![Case Preview](./img/case.jpg)
 
