@@ -22,3 +22,5 @@ The RUBIK Pi can also be powered by soldering directly to the leads shown in the
 :::warning
 This method has not been tested with typical FRC power supplies, which may have insufficient voltage regulation. We recommend a 12v buck buck boost pre-board
 :::
+
+![Soldered Connectors](./img/header.png)
