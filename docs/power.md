@@ -27,17 +27,17 @@ Since robotics power systems provide variable 12V, a buck-boost converter is **m
 ![Buck-Boost Connection Diagram](./img/usbc.png)
 
 :::caution
-Ensure your buck-boost converter is properly configured for 5V output. Incorrect voltage settings may damage the RUBIK-Pi.
+Ensure your buck-boost converter is properly configured for 12V output. Incorrect voltage settings may damage the RUBIK-Pi.
 :::
 
 ### USB-C Power (For Non-Robotics Use Only)
-*Only applicable when using a dedicated 5V power supply (e.g., phone charger or power bank)*
+*Only applicable when using a dedicated 12V power supply (e.g., phone charger or power bank)*
 
-The USB-C port labeled **PWR IN** (next to the buttons) can accept 5V power directly:
+The USB-C port labeled **PWR IN** (next to the buttons) can accept 12V power directly:
 
 ![USB-C Power Port](./img/usbc.png)
 
-- Requires a stable 5V/4A+ power supply (20W+)
+- Requires a stable 12V/2A+ power supply (20W+)
 - **Not suitable for direct connection to 12V robotics systems**
 
 ### Soldered Power (Advanced)
