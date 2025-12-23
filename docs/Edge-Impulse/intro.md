@@ -20,7 +20,7 @@ Every robot is unique. A model trained on someone else's robot won't work optima
 - **Faster Inference**: Optimized for exactly what you need to detect
 - **Tunable Confidence**: Adjust thresholds for your strategy
 
-## Optional: Lighting Calibration
+### Optional: Lighting Calibration
 
 :::tip Advanced Technique
 While you *can* capture training images in specific competition venue which can help with variations in backgrounds, carpet colors, and lighting  **this is usually overkill**. YOLO-Pro handles typical lighting variations well. Focus on diverse angles and distances instead—only worry about lighting if you're experiencing actual detection failures. 
