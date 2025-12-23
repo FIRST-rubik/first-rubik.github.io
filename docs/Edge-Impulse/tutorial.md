@@ -17,7 +17,7 @@ Create a custom YOLO-Pro model for your FIRST robot in 10 steps.
 ## Step 1: Create Your Project
 
 1. Go to [firstrobotics.edgeimpulse.com](https://firstrobotics.edgeimpulse.com/)
-2. Log in with FIRST credentials
+2. Create an account on the login page or sign in if you already have an account
 3. Click **Create new project**
 4. Name it (e.g., "2025-Game-Piece-Detection")
 5. Select **Object Detection** type
