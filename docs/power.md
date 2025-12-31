@@ -8,6 +8,7 @@ The RUBIK-Pi requires a minimum of 20W to operate reliably and can accept up to 
 :::warning
 **Power Requirement Warning**  
 Always provide at least 20W to prevent system instability. Lower power supplies may cause unexpected reboots or hardware issues.
+The board will draw 36w at full potential however we've not seen this usecase in FRC (yet)
 :::
 
 ## Recommended Power Setup for Robotics Applications
@@ -21,7 +22,7 @@ Since robotics power systems provide variable 12V, a buck-boost converter is **m
 
 2. **Connection Options**  
    Connect the converter output to the RUBIK-Pi using:
-   - [USB-C live wire](https://a.co/d/bj8JPZ2) (direct connection to USB-C port)
+   - [USB-C live wire] (direct connection to USB-C port using a live wire capable of 12v)
    - [USB Power Delivery board](https://a.co/d/8IgLE1i) (for adjustable voltage)
 
 ![Buck-Boost Connection Diagram](./img/usbc.png)
