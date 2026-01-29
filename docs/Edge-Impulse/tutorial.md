@@ -8,9 +8,9 @@ Create a custom YOLO-Pro model for your FIRST robot in 10 steps.
 
 ## Prerequisites
 
-- ✅ Access to [FIRST Robotics Edge Impulse](https://firstrobotics.edgeimpulse.com/)
-- ✅ 50-100+ images of game pieces from your robot's camera
-- ✅ Camera mounted in competition position
+- Access to [FIRST Robotics Edge Impulse](https://firstrobotics.edgeimpulse.com/)
+- Enough images from your robot's camera—50–100 is often enough, but you may need more depending on what you're trying to detect
+- Camera mounted in competition position
 
 ---
 
@@ -74,12 +74,12 @@ Machine learning is iterative. Your first model is just the beginning!
 
 ## Next Steps
 
-🎉 **Congratulations!** You've created your first custom object detection model.
+**Congratulations!** You've created your first custom object detection model.
 
 **Continue learning:**
 1. Read [Best Practices](./best-practices.md) for advanced tips
 2. Talk with others on Chief Delphi!
 
 :::tip Remember
-The best models come from continuous iteration. Each competition provides valuable data for improvement. Good luck! 🤖
+The best models come from continuous iteration. Each competition provides valuable data for improvement. Good luck!
 :::

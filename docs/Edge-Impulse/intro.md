@@ -4,18 +4,17 @@ sidebar_position: 1
 
 # Why Train Your Own Models?
 
-Using pre-trained AI models might seem convenient, but training custom models gives your FIRST team a competitive edge.
+Using pre-trained AI models might seem convenient, but training custom models gives your FIRST team a competitive edge. There is also a strong educational benefit: you learn by doing. Collecting data, labeling images, and iterating on your model builds real understanding of how computer vision and machine learning work—skills that go beyond the competition.
 
 ## The Problem with Generic Models
 
 Every robot is unique. A model trained on someone else's robot won't work optimally on yours because:
 
-### 🎥 Camera Differences
-- **Mounting Position**: Your camera's height and angle are unique
-- **Hardware Variations**: Different sensors capture images differently (color, exposure, distortion)
+### Camera Differences
+- **Mounting Position**: Your camera's height and angle are unique—the viewing angle directly affects model accuracy, so training on your robot's perspective matters.
 - **Lens Characteristics**: Each camera sees the world slightly differently
 
-### ⚡ Performance Benefits
+### Performance Benefits
 - **Fewer False Positives**: Waste less autonomous time on incorrect detections
 - **Faster Inference**: Optimized for exactly what you need to detect
 - **Tunable Confidence**: Adjust thresholds for your strategy

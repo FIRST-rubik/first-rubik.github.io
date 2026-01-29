@@ -8,7 +8,7 @@ Essential tips for creating effective models and solving common issues.
 
 ---
 
-## 📊 Data Collection
+## Data Collection
 
 ### Diversity is Key
 
@@ -16,12 +16,12 @@ Capture images representing the full range of conditions:
 
 | Priority | What to Capture | Why |
 |----------|----------------|-----|
-| 🎯 **High** | Various angles (high, low, side) | Different robot viewpoints |
-| 🎯 **High** | Multiple distances (near, medium, far) | Detection at all ranges |
-| 🎯 **High** | Different orientations | Objects appear rotated |
-| 🎯 **High** | Partial occlusions | Real-world scenarios |
-| 🎯 **High** | Background variations | Different field locations |
-| ⚠️ **Low** | Lighting conditions | YOLO-Pro handles this well* |
+| **High** | Various angles (high, low, side) | Different robot viewpoints |
+| **High** | Multiple distances (near, medium, far) | Detection at all ranges |
+| **High** | Different orientations | Objects appear rotated |
+| **High** | Partial occlusions | Real-world scenarios |
+| **High** | Background variations | Different field locations |
+| **Low** | Lighting conditions | YOLO-Pro handles this well* |
 
 *Only capture specific lighting if experiencing actual detection failures.
 
@@ -32,7 +32,7 @@ Capture images representing the full range of conditions:
 ### Dataset Structure
 
 ```
-✅ Good Dataset:
+Good Dataset:
 ├── Training (80%)
 │   ├── Multiple angles & distances
 │   ├── Various orientations
@@ -40,7 +40,7 @@ Capture images representing the full range of conditions:
 └── Testing (20%)
     └── Never seen during training
 
-❌ Bad Dataset:
+Bad Dataset:
 ├── Training (80%)
 │   └── All similar images
 └── Testing (20%)
@@ -49,7 +49,7 @@ Capture images representing the full range of conditions:
 
 ---
 
-## 🎓 Model Training
+## Model Training
 
 ### Start Simple
 
@@ -63,8 +63,8 @@ Capture images representing the full range of conditions:
 
 | Metric | Training | Testing | Status |
 |--------|----------|---------|--------|
-| Accuracy | 95%+ | &lt;70% | ❌ Overfitting |
-| Accuracy | 85% | 82% | ✅ Good |
+| Accuracy | 95%+ | &lt;70% | Overfitting |
+| Accuracy | 85% | 82% | Good |
 
 **Solutions:**
 - Add more diverse data
@@ -102,7 +102,7 @@ Learning Rate:
 ---
 
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 | Issue | Symptoms | Solutions |
 |-------|----------|-----------|
@@ -112,7 +112,7 @@ Learning Rate:
 
 ---
 
-## 📚 Resources
+## Resources
 
 ### Official Documentation
 - [Edge Impulse Docs](https://docs.edgeimpulse.com/)
@@ -122,17 +122,17 @@ Learning Rate:
 
 ---
 
-## 💡 Final Thoughts
+## Final Thoughts
 
 **Success in FIRST Robotics AI:**
 
-1. 🎯 **Systematic Approach** - Follow best practices consistently
-2. 🔄 **Continuous Iteration** - Each competition improves your model
+1. **Systematic Approach** - Follow best practices consistently
+2. **Continuous Iteration** - Each competition improves your model
 
 :::tip Remember
 **The goal isn't perfection—it's continuous improvement.**
 
 Each iteration makes your system better. Each competition provides valuable data for the next version.
 
-Good luck, and may your detections be accurate and your inference be fast! 🤖
+Good luck, and may your detections be accurate and your inference be fast!
 :::

@@ -30,6 +30,6 @@ The model learns from examples and generalizes to new situations.
 2. **Simultaneous Detection**: Finds objects and classifies them in one step
 
 ### Why YOLO for Robotics?
-- ⚡ **Fast**: No lag between detection and action
-- 🎯 **Accurate**: Detects multiple objects with high precision
-- 💻 **Efficient**: Optimized for embedded systems like RUBIK Pi
+- **Fast**: No lag between detection and action
+- **Accurate**: Detects multiple objects with high precision
+- **Efficient**: Optimized for embedded systems like RUBIK Pi

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 [Edge Impulse](https://firstrobotics.edgeimpulse.com/) provides FIRST teams with powerful tools to streamline AI development—no PhD required.
 
-## 🏷️ AI-Assisted Labeling
+## AI-Assisted Labeling
 
 Labeling hundreds of images is tedious. Edge Impulse speeds this up significantly.
 
@@ -20,7 +20,7 @@ Labeling hundreds of images is tedious. Edge Impulse speeds this up significantl
 Label 20-30 images manually, then let AI assist with the rest. Review and correct suggestions—saves hours of work!
 :::
 
-## ⚙️ Model Optimization
+## Model Optimization
 
 Edge Impulse automatically optimizes models for your Rubik Pi and is automatically supported on PhotonVision (no extra steps required)
 
@@ -34,23 +34,23 @@ Edge Impulse automatically optimizes models for your Rubik Pi and is automatical
 - Takes advantage of NPU acceleration
 - No manual tuning required
 
-## 🔄 Version Control
+## Version Control
 
 Track and compare model versions:
-- 📝 **Change History**: What changed between versions
-- 📊 **Performance Comparison**: Side-by-side metrics
-- ⏮️ **Rollback**: Revert to previous versions if needed
-- 📈 **Progress Tracking**: See improvement over time
+- **Change History**: What changed between versions
+- **Performance Comparison**: Side-by-side metrics
+- **Rollback**: Revert to previous versions if needed
+- **Progress Tracking**: See improvement over time
 
 ## Why Edge Impulse for FIRST?
 
 | Benefit | Impact |
 |---------|--------|
-| 🎓 **Low Barrier** | No AI expertise required |
-| ⚡ **Fast Development** | Hours, not weeks |
-| 💻 **PhotonVision Optimized** | Works with PhotonVision |
-| 🤝 **FIRST Support** | Resources specifically for teams |
-| 🚀 **Focus on Strategy** | Not infrastructure |
+| **Low Barrier** | No AI expertise required |
+| **Fast Development** | Hours, not weeks |
+| **PhotonVision Optimized** | Works with PhotonVision |
+| **FIRST Support** | Resources specifically for teams |
+| **Focus on Strategy** | Not infrastructure |
 
 :::info Getting Started
 Ready to use these features? Head to the [tutorial section](./tutorial.md) for a complete step-by-step guide!
