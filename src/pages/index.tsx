@@ -29,6 +29,28 @@ function HomepageHeader() {
   );
 }
 
+function SetupOverviewVideo() {
+  return (
+    <section className={styles.videoSection}>
+      <div className="container">
+        <Heading as="h2" className={styles.videoHeading}>
+          Rubik Pi Setup Overview
+        </Heading>
+        <div className={styles.videoWrapper}>
+          <iframe
+            src="https://www.youtube.com/embed/1LRJVeAd1aU"
+            title="Rubik Pi Setup Overview"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            className={styles.videoIframe}
+          />
+        </div>
+      </div>
+    </section>
+  );
+}
+
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -37,6 +59,7 @@ export default function Home(): ReactNode {
       description="Documentation for RUBIK AI - The intelligent platform for FIRST Robotics teams">
       <HomepageHeader />
       <main>
+        <SetupOverviewVideo />
         <HomepageFeatures />
       </main>
     </Layout>
