@@ -24,7 +24,6 @@ Since robotics power systems provide variable 12V, a buck-boost converter is **m
    - [USB-C live wire](https://a.co/d/bj8JPZ2) (direct connection to USB-C port)
    - [USB Power Delivery board](https://a.co/d/8IgLE1i) (for adjustable voltage)
 
-![Buck-Boost Connection Diagram](./img/usbc.png)
 
 :::caution
 Ensure your buck-boost converter is properly configured for 12V output. Incorrect voltage settings may damage the RUBIK-Pi.
