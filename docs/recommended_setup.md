@@ -45,3 +45,11 @@ When using RUBIK Pi 3 in high-load or high-performance scenarios, use cooling me
   
   We recommend that you do not remove the fan after installing it on your RUBIK Pi 3. Removal will cause the fan's push pins and thermal pads to degrade and may result in product damage. If the push pins are damaged, deformed, or not clipping securely, stop using the fan.
   :::
+
+### Notes about connecting the camera to the USB 3.0 ports
+
+The stacked USB 3.0 ports share a single PCIe Gen 2 x1 link through the Renesas UPD720201, so they cannot both sustain full USB 3.0 bandwidth at the same time. Those two stacked USB 3.0 ports sit on the same USB bus. Two high resolution cameras plugged into both ports will contend for the same bus, and one camera can fail to enumerate or drop out under load.
+
+### Caution about the vertical USB-A port
+
+The vertical USB-A port can cause camera flip flopping during enumeration, where the device appears as one of the two cameras and then switches. Unless you are willing to do additional device mapping or other workarounds, it is not worth the time to rely on that port for camera setups.
