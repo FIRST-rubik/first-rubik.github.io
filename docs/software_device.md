@@ -20,8 +20,7 @@ Qualcomm® Launcher is a user-friendly, GUI-based tool designed to simplify the 
 
 ### 2. Flashing Operations  
 
-**a**. In the Launcher, select the **Development Kit** as RUBIK Pi and the **Target Operating System** as Custom then point to newest PhotonVision build: https://github.com/PhotonVision/photonvision/releases  photonvision-xxxx-linuxarm64_rubikpi3.tar.xz
-
+**a**. In the Launcher, select the **Development Kit** as RUBIK Pi and check the Additonal Firmware (USB Firmware), the **Target Operating System** as Custom then point to newest PhotonVision build: https://github.com/PhotonVision/photonvision/releases  photonvision-xxxx-linuxarm64_rubikpi3.tar.xz ![](img/qsc_launcher_usb_firmware.png) 
 **b**. Switch the device to EDL mode (you can find instructions within the app). Once in EDL mode, the RUBIK Pi 3 will be automatically detected.    
 
 ![](img/Flashing_OS_DeviceConnected_EDL.png) 
