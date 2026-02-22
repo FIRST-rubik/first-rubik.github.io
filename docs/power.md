@@ -16,7 +16,7 @@ Always provide at least 20W to prevent system instability. Lower power supplies 
 Since robotics power systems provide variable 12V, a buck-boost converter is **mandatory** to regulate voltage to the required stable 12V for the RUBIK-Pi:
 
 1. **Buck-Boost Converter**  
-   [Pololu D36V6F5 Buck-Boost Converter](https://www.pololu.com/product/4984)  
+   [Pololu S13V25F12 Buck-Boost Converter](https://www.pololu.com/product/4984)  
    *Converts variable 12V input to stable 12V output*
 
 2. **Connection Options**  
