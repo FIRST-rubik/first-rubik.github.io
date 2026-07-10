@@ -50,6 +50,6 @@ When using RUBIK Pi 3 in high-load or high-performance scenarios, use cooling me
 
 The stacked USB 3.0 ports share a single PCIe Gen 2 x1 link through the Renesas UPD720201, so they cannot both sustain full USB 3.0 bandwidth at the same time. Those two stacked USB 3.0 ports sit on the same USB bus. Two high resolution cameras plugged into both ports will contend for the same bus, and one camera can fail to enumerate or drop out under load.
 
-### Caution about the vertical USB-A port
+### Camera matching on the vertical USB port
 
-The vertical USB-A port can cause camera flip flopping during enumeration, where the device appears as one of the two cameras and then switches. Unless you are willing to do additional device mapping or other workarounds, it is not worth the time to rely on that port for camera setups.
+In the past, there was an issue where devices connected to the vertical USB port could switch the paths they enumerate with on boot. This issue has been resolved in images distributed by PhotonVision. If you are not using a PhotonVision distributed image, you can view the fix [here](https://github.com/PhotonVision/photon-image-modifier/blob/888888c897c5d670d03c5872a686aad99701f4ac/install_rubikpi3.sh#L94-L102).
